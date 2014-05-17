@@ -14,4 +14,6 @@ Q4. サーバはどこにアップしますか？
 Q4. まだ準備中です。すいません
 
 # deploy
+## production
+masterにpushすると反映されます
 
