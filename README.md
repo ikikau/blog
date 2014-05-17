@@ -17,7 +17,7 @@ Q4. 本番だけ用意しました
 
 # deployについて
 ## production
-* bitbucketのproductionにpushすると反映されます
+* bitbucketのmasterにpushすると反映されます
 * [blog.ikikau.com](http://blog.ikikau.com/)
 
 |WPユーザ|PW|

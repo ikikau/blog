@@ -1,4 +1,4 @@
 <?php
 
 // ごめんこれでゆるして
-exec('git checkout production;git pull');
+exec('git checkout master;git pull');
