@@ -21,18 +21,18 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-if($_SERVER['SERVER_NAME'] == 'blog.marcierge.com') {
+if($_SERVER['SERVER_NAME'] == 'blog.ikikau.com') {
 
-  define('DB_NAME', 'marcierge-blog-production');
+  define('DB_NAME', 'ikikau_blog_production');
   define('DB_USER', 'username_here');
   define('DB_PASSWORD', 'password_here');
   define('DB_HOST', 'localhost');
   define('DB_CHARSET', 'utf8');
   define('DB_COLLATE', '');
 
-} elseif($_SERVER['SERVER_NAME'] == 'staging-blog.marcierge.com') {
+} elseif($_SERVER['SERVER_NAME'] == 'staging-blog.ikikau.com') {
 
-  define('DB_NAME', 'marcierge-blog-staging');
+  define('DB_NAME', 'ikikau_blog-staging');
   define('DB_USER', 'root');
   define('DB_PASSWORD', '');
   define('DB_HOST', 'localhost');
@@ -41,10 +41,10 @@ if($_SERVER['SERVER_NAME'] == 'blog.marcierge.com') {
 
 } else {
 
-  define('DB_NAME', 'marcierge-blog-development');
+  define('DB_NAME', 'ikikau_blog_development');
   define('DB_USER', 'root');
   define('DB_PASSWORD', '');
-  define('DB_HOST', 'localhost');
+  define('DB_HOST', '127.0.0.1:3306');
   define('DB_CHARSET', 'utf8');
   define('DB_COLLATE', '');
 
