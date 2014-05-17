@@ -4,7 +4,7 @@ $json = json_decode('{"repository": {"website": "", "fork": false, "name": "marc
 
 // deployを実行する
 if(!empty($json['commits'][0]['branch'])) {
-  if ($json['commits'][0]['branch'] == 'master') exec('git pull');
+  if ($json['commits'][0]['branch'] == 'production') exec('git checkout production;git pull');
 }
 
 
