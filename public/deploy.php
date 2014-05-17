@@ -1,6 +1,6 @@
 <?php
 
-$json = json_decode($_POST, true);
+$json = json_decode($_POST['payload'], true);
 
 // deployを実行する
 if(!empty($json['commits'][0]['branch'])) {
