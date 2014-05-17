@@ -16,9 +16,15 @@ Q4. まだ準備中です。すいません
 # deploy
 ## production
 * bitbucketのproductionにpushすると反映されます
+* [blog.ikikau.com](blog.ikikau.com)
+
+|WPユーザ|PW|
+|:----|:----|
+|marcierge|pm5JzYnFbfYt3GOz|
 
 ## staging
-* 用意中
+* deploy用意中
+* [staging-blog.ikikau.com](staging-blog.ikikau.com)
 
 
 ## ローカルテスト環境の構築(Mac)
