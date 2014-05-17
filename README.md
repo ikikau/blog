@@ -5,7 +5,7 @@ Q1. sass使いたいんですがどうしたらいいですか！
 A1. codekitを使おう！
 
 Q2. codekit持ってない....  
-A2. compassを使うか買いましょう！  
+A2. compassを使いましょう。 
 
 Q3. ローカルでwordpress動かしたい！  
 A3. [MAMP](http://www.mamp.info/en/)や[XAMPP](https://www.apachefriends.org/jp/)がいいと思います。
@@ -13,7 +13,9 @@ A3. [MAMP](http://www.mamp.info/en/)や[XAMPP](https://www.apachefriends.org/jp/
 Q4. サーバはどこにアップしますか？  
 Q4. まだ準備中です。すいません
 
-# deploy
+***
+
+# deployについて
 ## production
 * bitbucketのproductionにpushすると反映されます
 * [blog.ikikau.com](blog.ikikau.com)
