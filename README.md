@@ -15,7 +15,10 @@ Q4. まだ準備中です。すいません
 
 # deploy
 ## production
-masterにpushすると反映されます
+* productionにpushすると反映されます
+
+## staging
+* 用意中
 
 
 ## ローカルテスト環境の構築
