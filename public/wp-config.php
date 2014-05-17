@@ -21,7 +21,6 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-echo "deploy test";
 if($_SERVER['SERVER_NAME'] == 'blog.ikikau.com') {
 
   define('DB_NAME', 'ikikau_blog_production');
