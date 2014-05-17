@@ -18,7 +18,7 @@ Q4. 本番だけ用意しました
 # deployについて
 ## production
 * bitbucketのproductionにpushすると反映されます
-* [blog.ikikau.com](blog.ikikau.com)
+* [blog.ikikau.com](http://blog.ikikau.com/)
 
 |WPユーザ|PW|
 |:----|:----|
@@ -26,7 +26,7 @@ Q4. 本番だけ用意しました
 
 ## staging
 * deploy用意中
-* [staging-blog.ikikau.com](staging-blog.ikikau.com)
+* [staging-blog.ikikau.com](http://staging-blog.ikikau.com/)
 * アカウント準備中
 
 
