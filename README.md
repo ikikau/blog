@@ -11,7 +11,7 @@ Q3. ローカルでwordpress動かしたい！
 A3. [MAMP](http://www.mamp.info/en/)や[XAMPP](https://www.apachefriends.org/jp/)がいいと思います。
 
 Q4. サーバはどこにアップしますか？  
-Q4. まだ準備中です。すいません
+Q4. 本番だけ用意しました
 
 ***
 
