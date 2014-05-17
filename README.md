@@ -13,4 +13,5 @@ A3. [MAMP](http://www.mamp.info/en/)や[XAMPP](https://www.apachefriends.org/jp/
 Q4. サーバはどこにアップしますか？  
 Q4. まだ準備中です。すいません
 
+# deploy
 
