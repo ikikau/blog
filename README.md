@@ -25,6 +25,7 @@ Q4. まだ準備中です。すいません
 ## staging
 * deploy用意中
 * [staging-blog.ikikau.com](staging-blog.ikikau.com)
+* アカウント準備中
 
 
 ## ローカルテスト環境の構築(Mac)
