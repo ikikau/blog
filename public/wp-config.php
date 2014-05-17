@@ -24,8 +24,8 @@
 if($_SERVER['SERVER_NAME'] == 'blog.ikikau.com') {
 
   define('DB_NAME', 'ikikau_blog_production');
-  define('DB_USER', 'username_here');
-  define('DB_PASSWORD', 'password_here');
+  define('DB_USER', 'ikikau_blog_p');
+  define('DB_PASSWORD', 'UGUONmt2pInmpBn1b');
   define('DB_HOST', 'localhost');
   define('DB_CHARSET', 'utf8');
   define('DB_COLLATE', '');
