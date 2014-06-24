@@ -10,6 +10,7 @@
   <script src="<?php bloginfo('template_directory'); ?>/common/js/html5.js" type="text/javascript"></script>
   <![endif]-->
   <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/common/css/base.css">
+  <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/style.css">
   <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>

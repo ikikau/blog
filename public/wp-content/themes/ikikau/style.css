@@ -11,3 +11,243 @@ Tags: festival
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
+/* Setting -------------------------------------------------------- */
+a{
+  color: #d8af17;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.last{
+  margin-right: 0px;
+}
+
+/* Blog posts -------------------------------------------------------- */
+.blog.container{
+  margin-top: 20px;
+}
+
+article{
+  width: 650px;
+  float: left;
+}
+
+.blog_header{
+  margin: 15px 0 20px 0;
+}
+
+.blog_title{
+  margin-top: 55px;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+a .blog_title{
+  color: #000;
+}
+
+a .blog_title:hover{
+  color: #000;
+  text-decoration: underline;
+}
+
+.blog_author{
+  margin-top: 20px;
+  margin-bottom: 55px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #999999;
+}
+
+.section {
+  margin-bottom: 10px;
+  padding: 35px 20px;
+  width: 610px;
+  background-color: #FFF;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top: 5px solid #FFDD5F;
+}
+
+.section .title{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.section .date{
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-size: 11px;
+  color: #FFDD5F;
+}
+
+.section p{
+  font-size: 14px;
+  line-height: 26px;
+}
+
+
+/* Sidebar -------------------------------------------------------- */
+.sidebar {
+  width: 271px;
+  float: right;
+}
+
+.side_container {
+  width: 231px;
+  padding: 20px;
+  background-color: #FFF;
+  border-radius: 3px;
+}
+
+.thumbnail_container {
+  margin-top: 1px;
+  width: 231px;
+  padding: 20px;
+  background-color: #FFF;
+  border-radius: 3px;
+}
+
+.thumbnail_container li {
+float: left;
+margin: 0 2px 2px 0;
+}
+
+.author_title {
+  padding-top: 20px;
+  font-size: 11px;
+  display: inline-block;
+}
+
+.author_name{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.author_profile{
+  margin-top: 8px;
+  font-size: 12px;
+  color: #83858c;
+}
+
+ul.author_detail {
+  margin-top: 25px;
+}
+
+.author_website{
+  margin-bottom: 10px;
+  padding-left: 30px;
+  height: 20px;
+  background-image: url('common/images/common/icon_globe.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.author_more{
+  padding-left: 30px;
+  background-image: url('common/images/common/icon_more.png');
+  background-repeat: no-repeat;
+}
+
+.category_container, .pastentry_container, .monthlyentry_container {
+  margin-top: 40px;
+  width: 230px;
+}
+
+.category_heading, .pastentry_heading{
+  margin-bottom: 15px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.category_container ul li {
+  color: #D8AF17;
+  padding: 15px 0px;
+  background-image: url('common/images/common/seperator_small.png');
+  background-repeat: no-repeat;
+  }
+
+.pastentry_container ul.entry h3 {
+  color: #D8AF17;
+  padding: 15px 0px;
+  background-image: url('common/images/common/seperator_small.png');
+  background-repeat: no-repeat;
+}
+
+.pastentry_container ul.entry li {
+  color: #D8AF17;
+  padding: 15px 0px;
+  background-image: url('common/images/common/seperator_small.png');
+  background-repeat: no-repeat;
+}
+
+.pastentry_container ul.entry a {
+  color: #83858C;
+  text-decoration: underline;
+  font-size: 11px;
+}
+
+.monthlyentry_heading{
+  margin-bottom: 15px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.monthlyentry_container ul.backnumber a {
+  font-size: 13px;
+}
+
+.monthlyentry_container ul.backnumber h3 {
+  color: #D8AF17;
+  padding: 15px 0px;
+  background-image: url('common/images/common/seperator_small.png');
+  background-repeat: no-repeat;
+}
+
+.monthlyentry_container ul.backnumber li {
+  color: #D8AF17;
+  padding: 15px 0px;
+  background-image: url('common/images/common/seperator_small.png');
+  background-repeat: no-repeat;
+}
+
+.monthlyentry_container ul.backnumber li a{
+  padding-left: 30px;
+  background-image: url('common/images/common/arrow_archive.png');
+  background-repeat: no-repeat;
+}
+/* ブログ記事 ---------------------------------------------- */
+h1.title a{
+  color: #000;
+}
+
+h1.title a .blog_title:hover{
+  color: #000;
+  text-decoration: underline;
+}
+
+.cal, .date{
+  margin-top: 20px;
+  color: #D8AF17;
+  display: inline-block;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+/* ページネーション ----------------------------------------- */
+.nav-below {
+  font-size: 14px;
+}
+
+span.nav-top {
+margin-left: 200px;
+}
+
+.nav-next {
+  float: right;
+}
