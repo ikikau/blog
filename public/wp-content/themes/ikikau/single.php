@@ -30,9 +30,9 @@
   <?php endwhile; ?>
 
       <div class="nav-below">
-            <span class="nav-previous"><?php previous_post_link('%link', '＜ 前の記事へ'); ?></span>
+            <span class="nav-previous"><?php previous_post_link('%link', '前の記事へ'); ?></span>
             <span class="nav-top"><a href="#">Blogトップ</a></span>
-            <span class="nav-next"><?php next_post_link('%link', '次の記事へ ＞'); ?></span>
+            <span class="nav-next"><?php next_post_link('%link', '次の記事へ'); ?></span>
        </div><!-- /.nav-below -->
 
 <!-- Commetns -->

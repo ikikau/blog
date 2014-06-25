@@ -248,6 +248,23 @@ span.nav-top {
 margin-left: 200px;
 }
 
+.nav-previous a{
+  padding-left: 35px;
+  height: 25px;
+  background-image: url('common/images/common/arrow_previous.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
 .nav-next {
   float: right;
+}
+
+.nav-next a{
+  padding-right: 35px;
+  height: 25px;
+  background-image: url('common/images/common/arrow_next.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  display: inline-block;
 }
