@@ -288,7 +288,8 @@ body {
           width: 180px; }
 
 #footer {
-  margin-top: 46px;
+  /* margin-top: 46px; */
+  margin-top: 190px;
   background: url("../images/components/footer/bg_footer_link.png"); }
   #footer .pagetop {
     position: absolute;

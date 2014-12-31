@@ -17,8 +17,9 @@
 
 <header id="header">
   <div class="container">
-    <h1><a href="#"><img alt="ちょっと週末の贅沢をお届け。 marcierge" src="<?php bloginfo('template_directory'); ?>/common/images/components/header/logo.png"></a></h1>
+    <h1><a href="/"><img alt="ちょっと週末の贅沢をお届け。 marcierge" src="<?php bloginfo('template_directory'); ?>/common/images/components/header/logo.png"></a></h1>
 
+    <!--
     <div class="sub">
       <ul class="info">
         <li><a href="#"><img alt="マルシェルジュとは？" src="<?php bloginfo('template_directory'); ?>/common/images/components/header/nav_about.png"></a></li>
@@ -29,10 +30,11 @@
         <li><a href="#"><img alt="Twitter" src="<?php bloginfo('template_directory'); ?>/common/images/components/header/btn_social_twitter.png"></a></li>
         <li><a href="#"><img alt="Facebook" src="<?php bloginfo('template_directory'); ?>/common/images/components/header/btn_social_facebook.png"></a></li>
       </ul>
-    </div>
+    </div> -->
   </div>
 </header>
 
+<!--
 <nav id="navigator">
   <div class="container">
     <ul>
@@ -43,3 +45,4 @@
     </ul>
   </div>
 </nav>
+-->
