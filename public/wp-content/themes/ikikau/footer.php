@@ -6,6 +6,7 @@
       <a href="#"><img alt="topに戻る" src="<?php bloginfo('template_directory'); ?>/common/images/components/footer/btn_pagetop.png" /></a>
     </div>
 
+<!--
     <div class='link'>
 
       <ul class='event'>
@@ -26,6 +27,7 @@
 
     </div>
   </div>
+-->
 
   <div class='copyright'>
     <p>&copy; Marcierge 2014. All Rights Reserved.</p>
