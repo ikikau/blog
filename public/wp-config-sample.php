@@ -2,7 +2,7 @@
 /**
  * WordPress の基本設定
  *
- * このファイルは、MySQL、テーブル接頭辞、秘密鍵、言語、ABSPATH の設定を含みます。
+ * このファイルは、MySQL、テーブル接頭辞、秘密鍵、ABSPATH の設定を含みます。
  * より詳しい情報は {@link http://wpdocs.sourceforge.jp/wp-config.php_%E3%81%AE%E7%B7%A8%E9%9B%86 
  * wp-config.php の編集} を参照してください。MySQL の設定情報はホスティング先より入手できます。
  *
@@ -65,15 +65,6 @@ define('NONCE_SALT',       'put your unique phrase here');
  * インストールすることができます。半角英数字と下線のみを使用してください。
  */
 $table_prefix  = 'wp_';
-
-/**
- * ローカル言語 - このパッケージでは初期値として 'ja' (日本語 UTF-8) が設定されています。
- *
- * WordPress のローカル言語を設定します。設定した言語に対応する MO ファイルが
- * wp-content/languages にインストールされている必要があります。たとえば de_DE.mo を
- * wp-content/languages にインストールし WPLANG を 'de_DE' に設定すると、ドイツ語がサポートされます。
- */
-define('WPLANG', 'ja');
 
 /**
  * 開発者へ: WordPress デバッグモード
