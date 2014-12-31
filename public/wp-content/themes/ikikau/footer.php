@@ -30,7 +30,7 @@
 -->
 
   <div class='copyright'>
-    <p>&copy; Marcierge 2014. All Rights Reserved.</p>
+    <p>&copy; Ikikau 2014. All Rights Reserved.</p>
   </div>
 
 </footer>
